@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988635850402",
+    "project_id": "caretutorstask",
+    "storage_bucket": "caretutorstask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988635850402:android:5868d675b2e53d1d1a59fb",
+        "android_client_info": {
+          "package_name": "com.example.care_tutors_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6zHlc_mOfI_VkMGlagX2EQawzs6ybThU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
